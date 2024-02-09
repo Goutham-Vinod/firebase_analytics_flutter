@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "939189265530",
+    "project_id": "fir-analytics-test-ecd19",
+    "storage_bucket": "fir-analytics-test-ecd19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939189265530:android:d1f3ed69cf44ffcead07c3",
+        "android_client_info": {
+          "package_name": "com.example.firebase_analytics_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2mca2M1rS4yINzCDGtAdSgjkcI-WpeMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
